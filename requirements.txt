@@ -2,5 +2,10 @@ Flask
 Flask-SQLAlchemy
 Flask-Migrate
 Flask-JWT-Extended
+Flask-CORS
 python-dotenv
 psycopg2-binary
+pytest
+pytest-flask
+locust
+debugpy
